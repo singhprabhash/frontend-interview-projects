@@ -1,0 +1,142 @@
+[
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Garima",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock post for this coding challenge. this needs to be completed in two hours. Hello this is just some random post created to show an example mock post for this coding challenge. this needs to be completed in two hours. Hello this is just some random post created to show an example mock post for this coding challenge. this needs to be completed in two hours.",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Reply",
+        "from": {
+            "name": "Viniket",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Reply",
+        "from": {
+            "name": "Bhushan",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Tanvi",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Rahul",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Deeksha",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Swati",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Ketki",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Preksha",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Sonali",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Gagan",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Pratiksha",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Reply",
+        "from": {
+            "name": "Bhagyashree",
+            "email": "garima@gmail.com"
+        }
+    },
+    {
+        "fullText": "Hello this is just some random post created to show an example mock    post for this coding challenge",
+        "dateTimeCreated": "2020-07-20T18:44:11Z",
+        "dateTimeLastModified": "2020-07-20T18:44:11Z",
+        "type": "Post",
+        "from": {
+            "name": "Milind",
+            "email": "garima@gmail.com"
+        }
+    }
+]

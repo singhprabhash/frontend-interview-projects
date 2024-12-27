@@ -1,0 +1,55 @@
+.wrapper {
+  padding: 2em;
+}
+
+.search_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search_container input {
+  width: 300px;
+  height: 30px;
+  padding: 10px;
+  border: 1px solid gray;
+  outline: none;
+  color: gray;
+  border-radius: 4px;
+}
+
+.card .cardTitle .heading {
+  color: #3d3d7d;
+}
+
+.main_layout {
+  margin-top: 5rem;
+}
+
+.card {
+  width: 80%;
+  margin: 10px auto;
+  border-bottom: 1px solid rgb(170, 170, 170);
+}
+
+.highlight{
+  background-color: yellow;
+}
+
+#pagination {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pagination-btn {
+  background-color: transparent;
+  margin-right: 10px;
+  box-shadow: none;
+}
+
+.pagination-btn.active {
+  background-color: gray;
+}
